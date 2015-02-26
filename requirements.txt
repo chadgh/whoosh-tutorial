@@ -1,0 +1,2 @@
+ipython==2.4.1
+Whoosh==2.6.0

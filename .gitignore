@@ -52,3 +52,7 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# Project specific
+search.py
+indexdir/
